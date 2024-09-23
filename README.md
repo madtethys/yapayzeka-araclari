@@ -1,3 +1,6 @@
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">99 Adet Ücretsiz Yapay Zeka Aracı <br></h2>
+<img src="./banner.png" alt="99 Adet Ücretsiz Yapay Zeka Aracı"></img>
+
 #### 1- 2short.ai: [Yapay Zekaya ulaşmak için tıkla!](https://2short.ai/)
 > Bu araç, uzun videoları kısa ve etkileyici kliplere dönüştürmenizi sağlar. İçerik üreticileri için, dikkat çekici anları hızlı bir şekilde kesip paylaşmak önemlidir. Otomatik düzenleme özellikleri ile zamandan tasarruf sağlar.
 
