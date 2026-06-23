@@ -350,6 +350,7 @@ This blog offers a guide for anyone looking to explore the power of artificial i
 > It's used to convert audio content to text by offering speech-to-text conversion function. It speeds up the process of acquiring information.
 
 #### 99- Zarla AI: [Click here to access the AI!](https://www.zarla.com/)
+#### 100- Auferet: [Click here to access the AI!](https://auferet.com/)
 > As a website creation tool, it allows users to design websites quickly and easily. It brings your projects to life with its user-friendly interface.
 
 ## Conclusion
